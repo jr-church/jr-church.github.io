@@ -1,4 +1,0 @@
-Wage Loss
-===
-Introduction
----

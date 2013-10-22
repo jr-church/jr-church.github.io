@@ -1,4 +1,0 @@
-Allowable Expenses
-===
-Introduction
----

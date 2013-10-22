@@ -1,4 +1,0 @@
-Attendant Care
-===
-Introduction
----
